@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://ink.education/sitemap.xml
+
+# Disallow specific routes if needed
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
